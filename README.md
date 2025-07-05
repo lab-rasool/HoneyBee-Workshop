@@ -1,7 +1,7 @@
 <div align="center">
 
   # HONeYBEE: Harmonized Oncology Biomedical Embedding Encoder
-  # HoneyBee Tutorial Notebooks  
+  # Tutorial Notebooks  
   **Quick-Start Guides for Clinical, Radiology, Pathology & Molecular Workflows**
 
    [Examples](examples/) | [Documentation](https://lab-rasool.github.io/HoneyBee/) | [Paper](https://arxiv.org/abs/2405.07460) | [Issues](https://github.com/lab-rasool/HoneyBee/issues)
