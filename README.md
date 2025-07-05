@@ -83,7 +83,7 @@ HoneyBee is a comprehensive multimodal AI framework designed specifically for on
 
 ---
 ## 🚀 Quick Start (for this Workshop)
-## 1 · Prerequisites
+## 1 · Step-1 Open Google Colab
 
 Just login with your GMAIL account and launch [Google Colab](https://colab.research.google.com/).
 
