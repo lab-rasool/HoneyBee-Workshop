@@ -1,5 +1,6 @@
 <div align="center">
 
+  # HONeYBEE: Harmonized Oncology Biomedical Embedding Encoder
   # HoneyBee Tutorial Notebooks  
   **Quick-Start Guides for Clinical, Radiology, Pathology & Molecular Workflows**
 
