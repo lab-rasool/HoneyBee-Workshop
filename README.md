@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="website/public/images/logo.png" alt="HoneyBee Logo" width="200">
   
   # HoneyBee
   
